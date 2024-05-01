@@ -11,7 +11,7 @@ Olá! Me chamo Carlos Henrique Santos Sales, mais conhecido como Edril. Sou um e
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-##Frameworks
+## Frameworks
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
