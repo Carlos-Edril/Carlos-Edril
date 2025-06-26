@@ -27,7 +27,6 @@ Olá! Me chamo Carlos Henrique Santos Sales, mais conhecido como Edril. Sou um e
 ## Github Status
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Carlos-Edril&theme=date_night)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Carlos-Edril&theme=date_night)
 
 
 ## Conecte-se comigo
